@@ -1,5 +1,5 @@
 {
-  "name": "d3-hierarchy",
+  "name": "@hughsk/d3-hierarchy",
   "version": "0.0.1",
   "description": "Layout algorithms for visualizing hierarchical data.",
   "keywords": [
